@@ -16,6 +16,6 @@
     "gulp-file-include": "^2.3.0",
     "gulp-sass": "^5.1.0",
     "gulp-webserver": "^0.9.1",
-    "sass": "^1.54.3"
+    "sass":
   }
 }
